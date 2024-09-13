@@ -6,7 +6,7 @@
 [![웹사이트](https://img.shields.io/badge/Website-sunghyun.me-blue?style=flat)](https://sunghyun.me)
 [![GitHub 스폰서](https://img.shields.io/badge/Sponsor-GitHub_Sponsors-critical?style=flat)](https://github.com/sponsors/hellosunghyun)
 
-저는 창의성과 기술을 융합한 **General Solutionist** 김성현입니다. **샌드박스 네트워크**에서 Senior Producer로 활동하며, 1300만 유튜브 구독자와 38억 조회수를 달성한 다양한 프로젝트를 기획하고 운영했습니다. **도티TV**를 비롯한 마인크래프트 콘텐츠 제작과 유튜브 채널의 전략적 성장을 이끌었습니다.
+저는 창의성과 기술을 융합한 **General Solutionist** 김성현입니다. **샌드박스 네트워크**에서 Senior Producer로 활동하며, 총합 1300만 유튜브 구독자와 38억 조회수를 획득한 프로젝트들을 기획하고 운영했습니다. **도티TV**를 비롯한 마인크래프트 콘텐츠 제작과 유튜브 채널의 전략적 성장을 이끌었습니다.
 
 또한, 비대면 행사 기획과 같은 대규모 프로젝트를 통해 다양한 기업 및 정부기관과 협업한 경험도 가지고 있습니다. 데이터 분석과 프로그래밍에서 시작해, 프론트엔드 개발, 클라우드 인프라까지 다방면에서 뛰어난 성과를 냈습니다.
 
