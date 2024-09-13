@@ -67,6 +67,12 @@
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=Metabase&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=Plotly&logoColor=white)
 
+### 멀티미디어 및 디자인 도구
+
+![Affinity Photo Badge](https://img.shields.io/badge/Affinity%20Photo-4E3188?logo=affinityphoto&logoColor=fff&style=flat)
+![Affinity Designer Badge](https://img.shields.io/badge/Affinity%20Designer-134881?logo=affinitydesigner&logoColor=fff&style=flat)
+![Affinity Publisher Badge](https://img.shields.io/badge/Affinity%20Publisher-891B26?logo=affinitypublisher&logoColor=fff&style=flat)
+
 ### 기타 도구 및 플랫폼
 
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=flat&logo=Home%20Assistant&logoColor=white)
@@ -76,12 +82,6 @@
 ![XSplit](https://img.shields.io/badge/XSplit-0095DE?style=flat&logo=XSplit&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
-
-### 멀티미디어 및 디자인 도구
-
-![Affinity Photo Badge](https://img.shields.io/badge/Affinity%20Photo-4E3188?logo=affinityphoto&logoColor=fff&style=flat)
-![Affinity Designer Badge](https://img.shields.io/badge/Affinity%20Designer-134881?logo=affinitydesigner&logoColor=fff&style=flat)
-![Affinity Publisher Badge](https://img.shields.io/badge/Affinity%20Publisher-891B26?logo=affinitypublisher&logoColor=fff&style=flat)
 
 ## 📚 학습 중인 기술
 
