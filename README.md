@@ -1,119 +1,113 @@
-# 🙌 안녕하세요, 김성현입니다
+# 🙌 Hello, I'm Sunghyun Kim
 
-[![팔로우하기](https://img.shields.io/twitter/follow/kr_GroupM?style=social)](https://x.com/kr_GroupM)
-[![유튜브 구독자](https://img.shields.io/youtube/channel/subscribers/UCqR4bW5mfQ9w2DLAIa2xYHQ?style=social)](https://www.youtube.com/channel/UCqR4bW5mfQ9w2DLAIa2xYHQ)
-[![GitHub 팔로워](https://img.shields.io/github/followers/hellosunghyun?style=social)](https://github.com/hellosunghyun)
-[![웹사이트](https://img.shields.io/badge/Website-sunghyun.me-blue?style=flat)](https://sunghyun.me)
-[![GitHub 스폰서](https://img.shields.io/badge/Sponsor-GitHub_Sponsors-critical?style=flat)](https://github.com/sponsors/hellosunghyun)
+<div align="center">
 
-저는 창의성과 기술을 융합한 **General Solutionist** 김성현입니다. **샌드박스 네트워크**에서 Senior Producer로 활동하며, 총합 1300만 유튜브 구독자와 38억 조회수를 획득한 프로젝트들을 기획하고 운영했습니다. **도티TV**를 비롯한 마인크래프트 콘텐츠 제작과 유튜브 채널의 전략적 성장을 이끌었습니다.
+**AI-First Product Engineer & Creative Solutionist**<br>
+기술과 크리에이티브, 두 세계의 언어를 모두 이해하고 번역합니다.
 
-또한, 비대면 행사 기획과 같은 대규모 프로젝트를 통해 다양한 기업 및 정부기관과 협업한 경험도 가지고 있습니다. 데이터 분석과 프로그래밍에서 시작해, 프론트엔드 개발, 클라우드 인프라까지 다방면에서 뛰어난 성과를 냈습니다.
+<br>
 
-## 🚀 주요 기술
+[![Website](https://img.shields.io/badge/Website-sunghyun.kim-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sunghyun.kim)
+[![Follow on X](https://img.shields.io/badge/X-%40hellosunghyun-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/hellosunghyun)
+[![GitHub Followers](https://img.shields.io/github/followers/hellosunghyun?style=for-the-badge&logo=github&color=black)](https://github.com/hellosunghyun)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqR4bW5mfQ9w2DLAIa2xYHQ)
 
-### 프로그래밍 언어 및 개발 도구
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
-![Directus](https://img.shields.io/badge/Directus-263238?style=flat&logo=Directus&logoColor=white)
-
-### 멀티미디어 및 디자인 도구
-
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=Adobe%20After%20Effects&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=Adobe%20Illustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white)
-
-### 플랫폼 및 서비스
-
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)
-![X](https://img.shields.io/badge/X-000000?style=flat&logo=X&logoColor=white)
-![YouTube Studio](https://img.shields.io/badge/YouTube%20Studio-FF0000?style=flat&logo=YouTube&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=OpenAI&logoColor=white)
-![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logo=Perplexity&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=Anthropic&logoColor=white)
-![1Password](https://img.shields.io/badge/1Password-3B66BC?style=flat&logo=1Password&logoColor=white)
-![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=Steam&logoColor=white)
-![SoundCloud](https://img.shields.io/badge/SoundCloud-FF5500?style=flat&logo=SoundCloud&logoColor=white)
-![Philips Hue](https://img.shields.io/badge/Philips%20Hue-0065D3?style=flat&logo=Philips%20Hue&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=Google%20Colab&logoColor=white)
-
-## 💪 숙련된 기술
-
-### 개발 및 프레임워크
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=Firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=Supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
-
-### 클라우드 및 데이터베이스
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=Google%20Cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=Google%20BigQuery&logoColor=white)
-
-### 데이터 분석 및 시각화
-
-![Data Studio](https://img.shields.io/badge/Data%20Studio-669DF6?style=flat&logo=Google%20Data%20Studio&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=Metabase&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=Plotly&logoColor=white)
-
-### 멀티미디어 및 디자인 도구
-
-![Affinity Photo Badge](https://img.shields.io/badge/Affinity%20Photo-4E3188?logo=affinityphoto&logoColor=fff&style=flat)
-![Affinity Designer Badge](https://img.shields.io/badge/Affinity%20Designer-134881?logo=affinitydesigner&logoColor=fff&style=flat)
-![Affinity Publisher Badge](https://img.shields.io/badge/Affinity%20Publisher-891B26?logo=affinitypublisher&logoColor=fff&style=flat)
-
-### 기타 도구 및 플랫폼
-
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=flat&logo=Home%20Assistant&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=Salesforce&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
-![XSplit](https://img.shields.io/badge/XSplit-0095DE?style=flat&logo=XSplit&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
-
-## 📚 학습 중인 기술
-
-### 프로그래밍 언어 및 프레임워크
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=Svelte&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=Nuxt.js&logoColor=white)
-
-### 인프라 및 데이터베이스
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=Terraform&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=Redis&logoColor=white)
-
-### 기타 기술 및 도구
-
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=Three.js&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=Unreal%20Engine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=Blender&logoColor=white)
+</div>
 
 ---
 
-저는 **Python**과 **JavaScript**부터 **클라우드 서비스** 및 **데이터 분석**까지 폭넓은 기술 스택을 가지고 있으며, 3D 기술과 새로운 프레임워크에도 흥미를 가지고 있습니다. 다양한 프로젝트에서 경험을 쌓으며, 사용자를 위한 창의적이고 혁신적인 솔루션을 제공하는 것을 목표로 하고 있습니다.
+## 🚀 About Me
 
-더 많은 프로젝트는 [포트폴리오](https://sunghyun.me/portfolio)와 [경력](https://sunghyun.me/career) 페이지에서 확인하실 수 있습니다. 혁신적이고 협력적인 기회를 기대합니다!
+> **"모호한 아이디어를 구조화하고, AI를 활용해 창의적인 솔루션을 직접 만들어냅니다."**
+
+저는 **샌드박스 네트워크**에서 Senior Producer이자 Data Engineer로서 1,300만 구독자와 38억 조회수를 만들어낸 콘텐츠 전략을 이끌었고, 동시에 전사의 데이터 파이프라인을 설계한 독특한 이력을 가지고 있습니다.
+
+개발자와 크리에이터, 두 영역의 **Bilingual(이중언어 구사자)**로서 기획, 디자인, 엔지니어링을 서로 번역하며 문제를 가장 효율적인 방식으로 해결합니다.
+
+### 💡 Core Values
+* **Logic (구조화):** 복잡한 시스템과 비구조화된 요구사항을 핵심 로직으로 단순화합니다.
+* **Empathy (공감):** 수많은 콘텐츠 제작 경험을 통해 '사용자가 진짜 원하는 것'을 읽어냅니다.
+* **Execution (구현):** 말뿐인 기획이 아니라, 코드로 직접 구현하여 빠르게 증명합니다.
+
+---
+
+## 🧰 Toolkit
+
+폭넓은 기술 스택(Engineering)과 크리에이티브 도구(Creative)를 자유롭게 결합하여 솔루션을 만듭니다.
+
+### 💻 Engineering & Development
+
+| Category | Tech Stack |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![Remix](https://img.shields.io/badge/-Remix-000000?logo=remix&logoColor=white) |
+| **Backend** | ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/-ReactNative-61DAFB?logo=react&logoColor=black) |
+| **Cloud** | ![Google Cloud](https://img.shields.io/badge/-GCP_(Advanced)-4285F4?logo=googlecloud&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS_(Proficient)-232F3E?logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?logo=gitlab&logoColor=white) |
+
+### 📊 Data & Analytics
+
+| Category | Tech Stack |
+| :--- | :--- |
+| **Databases** | ![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?logo=googlebigquery&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazondynamodb&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) |
+| **Analysis** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white) |
+| **BI Tools** | ![Looker Studio](https://img.shields.io/badge/-Looker_Studio-4285F4?logo=googlelooker&logoColor=white) ![Metabase](https://img.shields.io/badge/-Metabase-509EE3?logo=metabase&logoColor=white) ![Superset](https://img.shields.io/badge/-Superset-00A699?logo=apache&logoColor=white) |
+
+### 🤖 AI & Future Tech
+
+| Category | Tech Stack |
+| :--- | :--- |
+| **LLM APIs** | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?logo=googlegemini&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude-D97757?logo=anthropic&logoColor=white) ![TwelveLabs](https://img.shields.io/badge/-TwelveLabs-000000?logo=ai&logoColor=white) |
+| **Frameworks** | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white) |
+| **AI IDEs** | ![Cursor](https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=white) ![Trae](https://img.shields.io/badge/-Trae-000000?logo=code&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/-Copilot-000000?logo=githubcopilot&logoColor=white) |
+| **Generative** | ![Midjourney](https://img.shields.io/badge/-Midjourney-000000?logo=midjourney&logoColor=white) ![Runway](https://img.shields.io/badge/-Runway-000000?logo=runway&logoColor=white) ![ComfyUI](https://img.shields.io/badge/-ComfyUI-000000?logo=artstation&logoColor=white) ![Suno](https://img.shields.io/badge/-Suno-000000?logo=audio&logoColor=white) ![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-000000?logo=speech&logoColor=white) |
+
+### 🎨 Creative & Productivity
+
+| Category | Tech Stack |
+| :--- | :--- |
+| **Graphics & 3D** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-E87D0D?logo=blender&logoColor=white) ![Cinema4D](https://img.shields.io/badge/-Cinema4D-003876?logo=maxon&logoColor=white) |
+| **Video** | ![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-9999FF?logo=adobepremierepro&logoColor=white) ![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?logo=adobeaftereffects&logoColor=white) ![Final Cut Pro](https://img.shields.io/badge/-Final_Cut-000000?logo=apple&logoColor=white) ![Google Veo](https://img.shields.io/badge/-Google_Veo-4285F4?logo=google&logoColor=white) |
+| **Audio & Show** | ![Studio One](https://img.shields.io/badge/-Studio_One-00758F?logo=presonus&logoColor=white) ![Cubase](https://img.shields.io/badge/-Cubase-D40000?logo=steinberg&logoColor=white) ![Melodyne](https://img.shields.io/badge/-Melodyne-F66602?logo=celemony&logoColor=white) ![QLab](https://img.shields.io/badge/-QLab-000000?logo=apple&logoColor=white) |
+| **Collaboration** | ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white) ![Directus](https://img.shields.io/badge/-Directus-263238?logo=directus&logoColor=white) ![Retool](https://img.shields.io/badge/-Retool-3D3D3D?logo=retool&logoColor=white) |
+
+---
+
+## 🛠 What I Do
+
+저는 단순히 기능을 구현하는 것을 넘어 **'문제 그 자체'**를 정의하고 해결합니다.
+
+### 🤖 AI Orchestration & Fast Validation
+* **AI Workflow:** OpenAI, Claude, Gemini API와 LangChain을 활용해 창작과 개발의 워크플로우를 최적화합니다.
+* **Prototyping:** 아이디어 검증 속도를 높이기 위해 빠르게 프로토타입을 제작하고 반복 개선(Iteration)합니다.
+
+### 📊 Data & System Engineering
+* **Data Pipeline:** 파편화된 데이터를 통합하여 해석 가능한 형태로 재구성하고 자동화합니다.
+* **Reliability:** 문서가 없는 레거시 시스템을 역공학으로 분석·복원하고, 안정적인 확장성을 설계합니다.
+
+### 🎨 Creative & Media Strategy
+* **Content Production:** 도티TV 등 메가 히트 채널을 운영하며 얻은 감각으로 미디어 콘텐츠를 직접 제작하고 디렉팅합니다.
+* **Tech-Art Bridge:** 기술적 구조 위에서 크리에이티브가 최상의 퍼포먼스를 내도록 조율합니다.
+
+---
+
+## 👣 Journey & Future
+
+* **2026 (Upcoming):** Apple Developer Academy 5기 합류 예정 (iOS & Product Development)
+* **2024 ~ Current:** Tech Solutions, Data Engineer (Infra & System Optimization)
+* **2016 ~ 2024:** Sandbox Network Senior Producer (Content Strategy & Operation)
+* **Early Days:** Music Composition Major & Minecraft Server Operation
+
+---
+
+<div align="center">
+
+### 📬 Let's Connect!
+
+복잡한 문제, 새로운 아이디어, 혹은 정의되지 않은 막연한 상태라도 좋습니다.<br>
+함께 구조를 잡고 솔루션을 검증해 나가고 싶다면 언제든 연락 주세요.
+
+[Website](https://sunghyun.kim) • [Email](mailto:hello@sunghyun.kim) • [LinkedIn](https://linkedin.com/in/hellosunghyun)
+
+</div>
