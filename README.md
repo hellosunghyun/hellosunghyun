@@ -95,8 +95,8 @@
 ## 👣 Journey & Future
 
 * **2026 (Upcoming):** Apple Developer Academy 5기 합류 예정 (iOS & Product Development)
-* **2024 ~ Current:** Tech Solutions, Data Engineer (Infra & System Optimization)
-* **2016 ~ 2024:** Sandbox Network Senior Producer (Content Strategy & Operation)
+* **2024 ~ Current:** Sandbox Network, Data Engineer (Infra & System Optimization)
+* **2016 ~ 2024:** Sandbox Network, Senior Producer (Content Strategy & Operation)
 * **Early Days:** Music Composition Major & Minecraft Server Operation
 
 ---
