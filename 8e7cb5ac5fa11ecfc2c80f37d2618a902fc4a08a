@@ -1,0 +1,23 @@
+README.md
+  eba80b213096be7e 1,3,5-6,10,12-16,20,22-25,29,31-34
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.34",
+  "base_commit_sha": "8e7cb5ac5fa11ecfc2c80f37d2618a902fc4a08a",
+  "prompts": {
+    "eba80b213096be7e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "opencode-transcript-ses_439e76bc0ffeScr6sELsCDuEKP-d6f33be9-8e12-48b5-8857-14eb32c46df3",
+        "model": "unknown"
+      },
+      "human_author": "Sunghyun Kim <hello@sunghyun.me>",
+      "messages": [],
+      "total_additions": 20,
+      "total_deletions": 95,
+      "accepted_lines": 20,
+      "overriden_lines": 0
+    }
+  }
+}
