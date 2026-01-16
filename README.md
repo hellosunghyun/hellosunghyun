@@ -26,9 +26,27 @@ Bridging technology and creativity, I solve problems by adapting to the context.
 
 ---
 
+### Toolkit
+
+**Languages** · Python · TypeScript · SQL · Kotlin  
+**Frontend** · Next.js · React Native(Expo) · Flutter  
+**Backend & Cloud** · GCP · AWS · Docker · Terraform
+
+---
+
+### Journey
+
+| Year | Role |
+|:--|:--|
+| 2026 | Apple Developer Academy @ POSTECH, Runner 5기 |
+| 2024 ~ | Data Engineer @ Sandbox Network |
+| 2016 ~ 2024 | Senior Producer @ Sandbox Network |
+
+---
+
 ### Links
 
 [![Website](https://img.shields.io/badge/sunghyun.kim-0052CC?style=flat-square&logo=googlechrome&logoColor=white)](https://sunghyun.kim)
 [![Email](https://img.shields.io/badge/hello@sunghyun.kim-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@sunghyun.kim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hellosunghyun)
 [![X](https://img.shields.io/badge/@hellosunghyun-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/hellosunghyun)
-[![LinkedIn](https://img.shields.io/badge/hellosunghyun-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hellosunghyun)
