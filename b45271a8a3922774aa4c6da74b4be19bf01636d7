@@ -1,0 +1,51 @@
+README.md
+  da3e345a8339a162 41,51
+  091b388592d1f5fb 29-31,34-40,42-46
+  d5e3be81734faa68 32-33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.34",
+  "base_commit_sha": "b45271a8a3922774aa4c6da74b4be19bf01636d7",
+  "prompts": {
+    "091b388592d1f5fb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "opencode-transcript-ses_439e76bc0ffeScr6sELsCDuEKP-f61273cb-7d7e-4809-8930-f91ecc6c593b",
+        "model": "unknown"
+      },
+      "human_author": "Sunghyun Kim <hello@sunghyun.me>",
+      "messages": [],
+      "total_additions": 20,
+      "total_deletions": 0,
+      "accepted_lines": 15,
+      "overriden_lines": 0
+    },
+    "d5e3be81734faa68": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "opencode-transcript-ses_439e76bc0ffeScr6sELsCDuEKP-d28d13e0-2d57-409f-85f1-6315cbad2bb7",
+        "model": "unknown"
+      },
+      "human_author": "Sunghyun Kim <hello@sunghyun.me>",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 3,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    },
+    "da3e345a8339a162": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "opencode-transcript-ses_439e76bc0ffeScr6sELsCDuEKP-ebda6f96-b24b-459b-853d-92f0bd21518d",
+        "model": "unknown"
+      },
+      "human_author": "Sunghyun Kim <hello@sunghyun.me>",
+      "messages": [],
+      "total_additions": 3,
+      "total_deletions": 4,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
