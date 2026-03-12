@@ -46,7 +46,7 @@ Bridging technology and creativity, I solve problems by adapting to the context.
 
 ### Links
 
-[![Website](https://img.shields.io/badge/sunghyun.kim-0052CC?style=flat-square&logo=googlechrome&logoColor=white)](https://sunghyun.kim)
-[![Email](https://img.shields.io/badge/hello@sunghyun.kim-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@sunghyun.kim)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hellosunghyun)
-[![X](https://img.shields.io/badge/@hellosunghyun-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/hellosunghyun)
+<a href="https://sunghyun.kim"><img src="https://readmecodegen.vercel.app/api/social-icon?name=chrome&bg=%230052CC&shape=circle&size=40" alt="Website" /></a>
+<a href="mailto:hello@sunghyun.kim"><img src="https://readmecodegen.vercel.app/api/social-icon?name=gmail&bg=%23EA4335&shape=circle&size=40" alt="Email" /></a>
+<a href="https://linkedin.com/in/hellosunghyun"><img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&bg=%230077b5&shape=circle&size=40" alt="LinkedIn" /></a>
+<a href="https://x.com/hellosunghyun"><img src="https://readmecodegen.vercel.app/api/social-icon?name=x&bg=%23000000&shape=circle&size=40" alt="X" /></a>
