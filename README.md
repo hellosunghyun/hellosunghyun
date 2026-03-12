@@ -38,7 +38,7 @@ Bridging technology and creativity, I solve problems by adapting to the context.
 
 | Year | Role |
 |:--|:--|
-| 2026.03 ~ | Apple Developer Academy 5th Runner @ POSTECH |
+| 2026.03 ~ | Apple Developer Academy @ POSTECH, 5th Runner|
 | 2024 ~ 2026.02 | Data Engineer @ Sandbox Network |
 | 2016 ~ 2024 | Senior Producer @ Sandbox Network |
 
