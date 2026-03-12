@@ -48,5 +48,5 @@ Bridging technology and creativity, I solve problems by adapting to the context.
 
 [![Website](https://img.shields.io/badge/sunghyun.kim-0052CC?style=flat-square&logo=googlechrome&logoColor=white)](https://sunghyun.kim)
 [![Email](https://img.shields.io/badge/hello@sunghyun.kim-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@sunghyun.kim)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/hellosunghyun)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://linkedin.com/in/hellosunghyun)
 [![X](https://img.shields.io/badge/@hellosunghyun-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/hellosunghyun)
