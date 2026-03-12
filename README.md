@@ -41,12 +41,3 @@ Bridging technology and creativity, I solve problems by adapting to the context.
 | 2026.03 ~ | Apple Developer Academy @ POSTECH, 5th Runner|
 | 2024 ~ 2026.02 | Data Engineer @ Sandbox Network |
 | 2016 ~ 2024 | Senior Producer @ Sandbox Network |
-
----
-
-### Links
-
-<a href="https://sunghyun.kim"><img src="https://readmecodegen.vercel.app/api/social-icon?name=chrome&bg=%230052CC&shape=circle&size=40" alt="Website" /></a>
-<a href="mailto:hello@sunghyun.kim"><img src="https://readmecodegen.vercel.app/api/social-icon?name=gmail&bg=%23EA4335&shape=circle&size=40" alt="Email" /></a>
-<a href="https://linkedin.com/in/hellosunghyun"><img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&bg=%230077b5&shape=circle&size=40" alt="LinkedIn" /></a>
-<a href="https://x.com/hellosunghyun"><img src="https://readmecodegen.vercel.app/api/social-icon?name=x&bg=%23000000&shape=circle&size=40" alt="X" /></a>
