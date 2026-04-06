@@ -44,4 +44,4 @@ Bridging technology and creativity, I solve problems by adapting to the context.
 
 ---
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/hellosunghyun/svg)](https://tokscale.ai/u/hellosunghyun)
+[![Tokscale Stats](https://tokscale.ai/api/embed/hellosunghyun/svg?graph=1)](https://tokscale.ai/u/hellosunghyun)
